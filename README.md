@@ -1,2 +1,2 @@
 # Proj-UofT
-All course projects conducted in UofT
+All course projects conducted at UofT
